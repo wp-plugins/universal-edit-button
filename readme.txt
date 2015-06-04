@@ -5,9 +5,11 @@ Requires at least: 2.1
 Tested up to: 4.2.2
 Stable tag: 1.0.1
 
+Adds a link in the head of the page that will activate the Universal Edit Button if the user has it installed.
+
 == Description ==
 
-Adds a link in the head of the page that will activate the <a href="http://universaleditbutton.org/">Universal Edit Button</a> if the user has it installed. The button is an icon in the URL bar that indicates a web page is editable, and takes the user directly to the edit view.
+The <a href="http://universaleditbutton.org/">Universal Edit Button</a> is an icon in the URL bar that indicates a web page is editable; and clicking it takes the user directly to the edit view.  This plugin adds a tag in the head of each post and page, that will activate the UEB if the user has it installed and has edit rights for that page.
 
 == Usage ==
 
